@@ -1,7 +1,16 @@
 # Blossom Theme for Simple Terminal
 
 ## Preview
-> Add Screenshots of the theme
+![](./screenshot01.png)
 
 ## Installation
-> Add the method to install the theme.
+1. Clone the repository.
+```git clone https://github.com/BlossomTheme/ST.git```
+
+2. Navigate to the repository.
+```cd ./ST```
+
+3. Install.
+```sudo make install```
+
+4. Enjoy!
